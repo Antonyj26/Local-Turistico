@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: auto;
+  padding-top: 88px;
+  color: 333333;
+}
+
+#page p {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  color: #333333;
+}
+
+header {
+  margin-bottom: 100px;
+}
+
+header p {
+  margin-top: 24px;
+  text-align: center;
+}
+
+section.description p {
+  margin-bottom: 64px;
+}
+
+section.history {
+  margin-bottom: 48px;
+}
+
+section.history p,
+section.family p {
+  margin-top: 4px;
+  margin-bottom: 24px;
+}
+
+.history ul li {
+  color: #0c51a7;
+}
+
+h1 {
+  font-size: 36px;
+
+  font-weight: 700;
+  margin-top: 8px;
+  margin-bottom: 44px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h3 h1,
+h2,
+h3 {
+  color: #1b1b1b;
+}
+
+img {
+  border-radius: 28px;
+  margin-bottom: 20px;
+}
+
+span {
+  color: #e1624f;
+}
+
+.description-footer {
+  text-align: center;
+  margin-top: 80px;
+}
+
+footer {
+  text-align: center;
+  padding: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
